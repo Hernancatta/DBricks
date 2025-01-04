@@ -3,5 +3,3 @@
 
 ![2](https://github.com/user-attachments/assets/eb464b8e-f1be-4e8b-af0c-2001a2336984)
 
-
-[to parquet.pdf](https://github.com/user-attachments/files/18307836/to.parquet.pdf)
